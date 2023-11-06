@@ -1,0 +1,7 @@
+.git/
+.ipynb_checkpoints/
+data/
+**/__pycache__/
+models/
+runs/
+hugging_face_foodvision_mini/

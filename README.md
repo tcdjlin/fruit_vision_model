@@ -2,7 +2,7 @@
 
 ### Jupyter Notebook Source Code
 
-- [Fruit Vision 100](https://github.com/andrewtclin/fruit_vision_model/blob/master/fruit_vision_100.ipynb)
+- [Fruit Vision 100 - Source Code](https://github.com/andrewtclin/fruit_vision_model/blob/master/fruit_vision_100.ipynb)
 - Deployed model @ HuggingFace: [App - Fruit Vision 100](https://huggingface.co/spaces/tclin/fruit_vision_100)
 
 ### Overview

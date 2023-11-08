@@ -6,7 +6,7 @@
 
 ### Deployed model @ HuggingFace:
 
-- [App - Fruit Vision 100](https://huggingface.co/spaces/tclin/fruit_vision_100)
+- [Fruit Vision 100 - App](https://huggingface.co/spaces/tclin/fruit_vision_100)
 
 ### Overview
 

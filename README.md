@@ -1,6 +1,6 @@
 ## Fruit Vision 100
 
-### Jupyter Notebook Source Code
+### Jupyter Notebook
 
 - [Fruit Vision 100 - Source Code](https://github.com/andrewtclin/fruit_vision_model/blob/master/fruit_vision_100.ipynb)
 

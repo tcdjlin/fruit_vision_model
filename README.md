@@ -11,7 +11,7 @@
 ### Overview
 
 - This project trains a computer vision model to identify **100 different fruit classes** (transfer learning of EfficientNetB2).
-- Total of **9.1M** parameters, making it portable.
+- Portable model: **9.1M** parameters.
 
 <img src="image/app_snapshot.png" alt="Alt Text" width="400" height="auto">
 

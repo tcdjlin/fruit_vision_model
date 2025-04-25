@@ -1,4 +1,4 @@
-## Fruit Vision 100 - 100 Fruit Classes Vision Classification
+## Fruit Vision 100: 100 Fruit Classes Vision Classification
 
 ### Jupyter Notebook Experiments
 
